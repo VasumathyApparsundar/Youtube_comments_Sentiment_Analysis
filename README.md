@@ -2,15 +2,13 @@
 
 ## Project Overview
 
-This project performs sentiment analysis on comments from five popular Tamil YouTube channels. The goal is to classify comments into Positive, Negative, and Neutral sentiments using Natural Language Processing (NLP) techniques and machine learning models.
+This project performs sentiment analysis on comments from three popular Tamil YouTube channels. The goal is to classify comments into Positive, Negative, and Neutral sentiments using Natural Language Processing (NLP) techniques and machine learning models.
 
 ## Channels Analyzed
 
 - **Nakkalites**
 - **Village Cooking Channel**
 - **Madan Gowri**
-- **Micset**
-- **Madras Samayal**
 
 ## Technologies Used
 
